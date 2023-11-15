@@ -1,0 +1,337 @@
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.exe
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.deps.json
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.json
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.runtimeconfig.dev.json
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ref\Shop.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.pdb
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.Views.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Shop.Views.pdb
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.csproj.AssemblyReference.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.xml
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\scopedcss\bundle\Shop.styles.css
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.input.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.TagHelpers.output.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.RazorCoreGenerate.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.Views.pdb
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.dll
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\ref\Shop.dll
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.pdb
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Shop.csproj.CopyComplete
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\dbsettings.json
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Json.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\akkay\source\repos\Shop\Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\akkay\source\repos\Shop\Shop\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\dbsettings.json
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.StaticWebAssets.xml
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.exe
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.deps.json
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.runtimeconfig.json
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.runtimeconfig.dev.json
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.Views.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Shop.Views.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Json.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.csproj.AssemblyReference.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.AssemblyInfoInputs.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.AssemblyInfo.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.RazorAssemblyInfo.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\scopedcss\bundle\Shop.styles.css
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\staticwebassets\Shop.StaticWebAssets.Pack.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\staticwebassets\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\staticwebassets\msbuild.build.Shop.props
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Shop.props
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Shop.props
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.TagHelpers.input.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.TagHelpers.output.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.RazorCoreGenerate.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\Order\Complete.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.Views.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.csproj.CopyComplete
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\refint\Shop.dll
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.pdb
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\Shop.genruntimeconfig.cache
+C:\Users\moffa\Desktop\for git\OnlineShop-main\Shop\obj\Debug\net5.0\ref\Shop.dll
